@@ -1,4 +1,0 @@
-FreshGlass
-==========
-
-Research and development
